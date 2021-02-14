@@ -35,3 +35,12 @@ process.on('unhandledRejection', err => {
     process.exit(1);
   });
 });
+//Prevents data loss due to abrupt heroku disconnection due to SIGTERM EVENT
+process.on('SIGTERM', () => {
+  console.log(
+    '😐 SIGTERM RECIEVED. Shutting down after handeling all requests.'
+  );
+  server.close(() => {
+    console.log('🚨Process Terminated');
+  });
+});
