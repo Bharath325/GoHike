@@ -7,7 +7,7 @@ module.exports = class Email {
     this.to = user.email;
     this.firstName = user.name.split(' ')[0];
     this.url = url;
-    this.from = `Jonas Schmedtmann <${process.env.EMAIL_FROM}>`;
+    this.from = `Bharath Kishore <${process.env.EMAIL_FROM}>`;
   }
 
   newTransport() {
@@ -47,7 +47,7 @@ module.exports = class Email {
       to: this.to,
       subject,
       html,
-      text: htmlToText.fromString(html)
+      text: htmlToText.htmlToText(html)
     };
 
     // 3) Create a transport and send email
@@ -55,7 +55,7 @@ module.exports = class Email {
   }
 
   async sendWelcome() {
-    await this.send('welcome', 'Welcome to the Natours Family!');
+    await this.send('welcome', 'Welcome to the GoHike!');
   }
 
   async sendPasswordReset() {

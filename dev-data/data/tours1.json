@@ -1,0 +1,470 @@
+[
+  {
+    "startLocation": {
+      "description": "Maharashtra, India",
+      "type": "Point",
+      "coordinates":[ 73.46389696925989,16.066481121497034],
+      "address": "Malvan, Maharashtra 416606, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "Scuba Diving",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 4500,
+    "summary": "Exploring the jaw-dropping coast by foot and by boat",
+    "description": "Malvan is a town and taluka in Sindhudurg District, the southernmost district of Maharashtra State, India, well known for the historically important Sindhudurg Fort. Malvan taluka consists of villages such as Angane Wadi Masure, Achra, Khalchi Devli, Jamdul, Juva, Pankhol, Talasheel and Sarjekot.\n Malvan is the most ideal and blessed destination for scuba diving. Located in Konkan region of Maharashtra, get close to untouched world of the marine life. Scuba Diving offers you the experience and the opportunity to explore the underwater life, with the expert guidance and class leading equipment.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Malvan Beach",
+        "type": "Point",
+        "coordinates":[ 73.46388757470906,16.06602675311897],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Talashil Beach",
+        "type": "Point",
+        "coordinates": [ 73.45853792416642,16.115161352858298],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Sindhudurg Fort",
+        "type": "Point",
+        "coordinates":[ 73.45965285890253,16.04385130596873],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Rock Garden",
+        "type": "Point",
+        "coordinates":[ 73.45534504550625,16.06297139756964],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Madhya Pradesh, India",
+      "type": "Point",
+      "coordinates":[ 76.16582346862465,21.41544485280849],
+      "address": "Satpura, Madhya Pradesh 450331, India"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Rock Climbing",
+    "duration": 7,
+    "maxGroupSize": 25,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 397,
+    "summary": "Exploring the amazing Range of hills extending for 900 km between the Narmada & Tapi rivers, with parks & hill stations.",
+    "description": "This majestic mountain is located at Pachmarhi Biosphere Reserve. The Satpura mountain ranges offers terrain of adventure activities including the rock climbing. There are different terrains where one can do the rock climbing.\n It can be reached directly by bus from Bhopal and is 210 km away by road. Pachmarhi can also be reached from Nagpur.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Satpura Mountain range",
+        "type": "Point",
+        "coordinates":[76.16582346862465,21.41544485280849],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Madai Riverside",
+        "type": "Point",
+        "coordinates": [78.08980405096914,22.56050117552796],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Satpura Mount Hills",
+        "type": "Point",
+        "coordinates":[77.3240118494503,21.40317736542222],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kashmir, India",
+      "type": "Point",
+      "coordinates":[ 74.38459588731338,34.04580151596933],
+      "address": "J & K, Gulmarg 193403, India"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": " Gondola Ride & Skiing",
+    "duration": 4,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2000,
+    "summary": "Want to Ski India? Skiing in India is the ultimate Powder Ski Experience! Find all Info about Skiing India",
+    "description": "Known as the world’s highest cable car, the Gulmarg Gondola ride is the most fascinating adventure one can experience. During the ride one can enjoy the enigmatic view of snow-capped landscape blessed with pine trees. It’s a delight for photographers. There are two-stage Gondola lifts carrying 600 per hour starting from Kongdoori Mountain.\nAll the Gulmarg ski action takes place on the Pir Panjal range of the Western Himalayas, of which the most obvious highpoint is Mt Apharwat at around 4,200m. The range and views are breath-taking (literally)!",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Gulmarg Gondola",
+        "type": "Point",
+        "coordinates":[74.38459588731338,34.04580151596933 ],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "GULMARG SKI TOUR",
+        "type": "Point",
+        "coordinates": [74.38341699711277,34.06267618189592 ],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Goa, India",
+      "type": "Point",
+      "coordinates":[ 74.31396902387523,15.312283485234145],
+      "address": "Sonaulim, Goa 403410, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Dudhsagar Trek",
+    "duration": 10,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 1497,
+    "summary": "A majestic waterfall where the white water gushing through the steep and vertical face of the mountain.",
+    "description": "One of the fascinating things about Southern adventure part is the waterfalls that truly takes your breath away. One such is the Dudhsagar Waterfall which is an important landmark in Goa offering mesmerizing view from long distance falling at the height of 1017ft. Also known as the ‘sea of milk”, the falls are zenith during monsoon season. Imagine the experience of going under the waterfall as the train passes through it. You can even engage in the enthralling trek in the vicinity.\n It is located in the Sanguem Taluka of Goa.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "India's first canopy walk",
+        "type": "Point",
+        "coordinates":[ 74.32077292287771,15.321708304235003],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "DudhSagar falls Top View",
+        "type": "Point",
+        "coordinates": [ 74.31448877012885,15.3171477033162],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Devils Canyon",
+        "type": "Point",
+        "coordinates":[ 74.30500447967177,15.31358805375471],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "Dudhsagar Viewpoint",
+        "type": "Point",
+        "coordinates":[ 74.31294903761017,15.307143723582415],
+        "day": 9
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Goa, India",
+      "type": "Point",
+      "coordinates":[ 74.31396902387523,15.312283485234145],
+      "address": "Sonaulim, Goa 403410, India"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Surfing",
+    "duration": 9,
+    "maxGroupSize": 20,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 5000,
+    "summary": "Goa... a perfect for surfing beginners",
+    "description": "While in Goa, you cannot miss the Banana Surfing which is the most thrilling water adventure in Goa. Challenge yourself by surfing in the immaculate waves of Goa beaches by sitting on the Banana surfs.  If this is your first time, you will be easy-to-follow instructions for surf experts. Learn the skills and get on to the boards to fight against the lashing water of Goa beach.\n Except monsoon and high tide, surfing can be done anytime throughout the year.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Grandmother's Hole Beach",
+        "type": "Point",
+        "coordinates":[ 73.78664197620485,15.405186335090015],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Ilha Grande",
+        "type": "Point",
+        "coordinates": [ 73.77794099777445,15.35321061639176],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Dolphin Point",
+        "type": "Point",
+        "coordinates":[ 73.76691410670153,15.486753163507522],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Himachal Pradesh, India",
+      "type": "Point",
+      "coordinates":[32.04376192139145, 76.73095664785065],
+      "address": "Bir & Kullu, Himachal Pradesh, India"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2021-07-19T09:00:00.000Z",
+      "2021-09-06T09:00:00.000Z",
+      "2022-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": " Paragliding & White Water River Rafting",
+    "duration": 14,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 2997,
+    "summary": "Surfing, skating, parajumping and more, all in one tour",
+    "description": "Tucked away in the valleys of Kangra in Himachal Pradesh are the towns of Bir and Billing.Bir-Billing Village is located in Palampur district of Himachal Pradesh and offers a great adventurous experience of paragliding. \n Enjoy the lashing of Beas River in Kullu Valley, Manali with the white water river rafting. In fact, it is the ideal destination to enjoy the rafting expedition. Starting in the morning at Pirdi, the rafting can be for few hours’ covers the designated kms. The river has got I-IV grade of speed.",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Coorg Hills Top",
+        "type": "Point",
+        "coordinates":[76.73095664785065,32.04376192139145],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Bir Billing, Camping Site",
+        "type": "Point",
+        "coordinates":[ 76.74404432026556,32.05921189592933],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Dussehra Camp of Jamlu",
+        "type": "Point",
+        "coordinates":[77.11861680263229,31.957155252920096],
+        "day": 6
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Larji Dam",
+        "type": "Point",
+        "coordinates": [77.2180269445862,31.727038385888356 ],
+        "day": 7
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2967",
+        "description": "Thalaut",
+        "type": "Point",
+        "coordinates":[77.19928487654624,31.711824541114332],
+        "day": 10
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kerala, India",
+      "type": "Point",
+      "coordinates":[ 77.04950064953776,10.092902177501573],
+      "address": "Munnar, Kerala 685612, India"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": " Cycling ",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2997,
+    "summary": "Munnar has some of the finest biking trails in South India.",
+    "description": "Munnar is blessed with enchanting beauty with zigzag roads offering the best view of lush green hills. Venture into Madupatty tea estates and admire the beautiful view of Kundala Dam and Anamudi Chola near Anamudi National Park. Cycling in this location is the best ever experience you can have.\n  There are different cycling tours which includes half day, full and multi-day tours.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Munnar",
+        "type": "Point",
+        "coordinates":[ 77.04950064953776,10.092902177501573],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "Top Station",
+        "type": "Point",
+        "coordinates": [ 77.24520866062612,10.123073262174529],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Marayoor",
+        "type": "Point",
+        "coordinates":[77.16047991928214,10.283747264697253],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Karnataka, India",
+      "type": "Point",
+      "coordinates": [76.6435829827084,12.299232026996425],
+      "address": "Mysuru, Karnataka, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2021-12-16T10:00:00.000Z",
+      "2022-01-16T10:00:00.000Z",
+      "2022-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Skydiving",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 1497,
+    "summary": "Imagine yourself in the mid-air without any movement and watching the bird’s eye view of the lands",
+    "description": "Skydiving is the most thrilling adventure you can ever experience. If you’re in Mysore then don’t miss the skydiving at the most the unadulterated height from the sky. \nHowever, before the act, you’ll be trained and provided with safety procedures. Tandem, Solo, and A License are three different jump types. Of all, Tandem jump is the most popular training for the first time skydivers. The height altitude is from 6,000 ft. to 10,000ft. Strictly no alcohol and drug conception is appreciated for skydiving.",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Mysuru",
+        "type": "Point",
+        "coordinates": [76.6435829827084,12.299232026996425],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Karnataka, India",
+      "type": "Point",
+      "coordinates":[75.73046281020663,12.417732415290157],
+      "address": "Coorg, Karnataka 685612, India"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2021-02-12T10:00:00.000Z",
+      "2021-04-14T09:00:00.000Z",
+      "2021-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": " Camping ",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 1997,
+    "summary": " It's located in a serene location, inside a coffee plantation. There is a lake and camp fire area.",
+    "description": "Coorg is the main holiday destination in Karnataka and is an ideal option for camping. Cool, exotic and serene makes the entire region of Coorg enthralling and pictorial. You can check different camping tours, including the Coleman Camping tour in which you can enjoy white water rafting, stream trek and trek to Brahmairi Hills.\n Coorg is close by to Bengaluru and Mangalore. There are regular Deluxe and KSRTC buses leaving from Mysore, Bengaluru and Mangalore. The nearest station is Mysore, 120km away.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Coorg Hills Top",
+        "type": "Point",
+        "coordinates":[75.73046281020663,12.417732415290157],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Coffee Village Coorg",
+        "type": "Point",
+        "coordinates": [75.74954286454854,12.460330567650828],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Camp Grounds",
+        "type": "Point",
+        "coordinates":[ 75.69476132182298,12.449779564833515],
+        "day": 5
+      }
+    ]
+  }
+]
