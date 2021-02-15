@@ -5,14 +5,6 @@ const Booking = require('../models/bookingModel');
 const catchAsync = require('../utils/catchAsync');
 const factory = require('./handlerFactory');
 
-exports.alert = (req, res, next) => {
-  const { alert } = req.query;
-  if (alert === 'booking')
-    res.locals.alert =
-      "Booking Successful ! Please check email for confermation. If booking doesn't appear in booking page, please check again after some time.";
-  next();
-};
-
 exports.getCheckoutSession = catchAsync(async (req, res, next) => {
   // 1) Get the currently booked tour
   const tour = await Tour.findById(req.params.tourId);
