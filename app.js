@@ -8,6 +8,8 @@ const xss = require('xss-clean');
 const hpp = require('hpp');
 const cookieParser = require('cookie-parser');
 const compression = require('compression');
+const cors = require('cors');
+
 const AppError = require('./utils/appError');
 const globalErrorHandler = require('./controllers/errorController');
 const tourRouter = require('./routes/tourRoutes');
@@ -23,6 +25,18 @@ app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, 'views'));
 
 // 1) GLOBAL MIDDLEWARES
+//Implement CORS
+app.use(cors());
+// sets headers Access-Control-Allow-Origin *
+// If api and front end are hosted at differnt servers , then to allow access use:
+//Example : api.natours.com, front-end natours.com
+//app.use(cors({
+//origin:'https://www.natours.com'  // will work only for simple requests like get and post
+//}))
+
+app.options('*', cors());
+//app.options('/api/v1/tours/:id',cors());
+
 // Serving static files
 app.use(express.static(path.join(__dirname, 'public')));
 
